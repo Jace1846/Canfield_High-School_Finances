@@ -29,7 +29,7 @@ Reserve days show how long the district's savings alone could cover normal spend
 
 Reserves are projected to fall from 223 days (FY2022) to 128 (FY2026) and 44 (FY2028), below the roughly 50-day minimum. In FY2029 they reach -16 days in the February forecast, revised to 4 days in the spring update.
 
-What it means: The savings are running out, dropping below the minimum by FY2028 and reaching about zero by FY2029. The school essentially has no money by 2029 if they don't make hella cuts.
+What it means: The savings are running out, dropping below the minimum by FY2028 and reaching about zero by FY2029. The school essentially has no money by 2029 if they don't make extreme cuts.
 
 
 
