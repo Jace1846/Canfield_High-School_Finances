@@ -12,10 +12,10 @@ The only deficits were in FY1999 (-$3.0M), FY2000 (-$7.3M) and FY2002 (-$0.6M). 
 
 What it means: The district has a long record of income covering its spending. In recent years, though, the gap between the two lines has narrowed. The surplus fell to $0.3M in FY2023, the smallest since FY2002, before rising to $1.2M in FY2024.
 
-### Projected Income v.s. Expenditures
+### Projected General Income v.s. Expenditures
 <img width="1000" height="600" alt="canfield_projected_income_vs_expenditures" src="https://github.com/user-attachments/assets/a7d42140-9976-4ec0-bf9f-32f621bcff39" />
 
-Income is projected to stay flat: $31.0M in FY2024, peaking at $32.0M in FY2028, then back to $31.0M in FY2029. Over the same period, expenditures are projected to rise every year, from $29.6M to $35.6M, an increase of $6.0M.
+General Income is projected to stay flat: $31.0M in FY2024, peaking at $32.0M in FY2028, then back to $31.0M in FY2029. Over the same period, expenditures are projected to rise every year, from $29.6M to $35.6M, an increase of $6.0M.
 
 FY2024 is the last projected surplus (+$1.4M). After that, the deficit grows each year: -$0.7M, -$1.4M, -$1.9M, -$2.6M and -$4.6M by FY2029. Altogether, that's about $11.2M more spent than earned from FY2025 to FY2029.
 
