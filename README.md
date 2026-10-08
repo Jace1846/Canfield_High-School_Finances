@@ -12,3 +12,5 @@ As K-12 eduication continues to struggle post covid, my home-town of Canfield Oh
 | 2022 | https://www2.census.gov/programs-surveys/school-finances/tables/2022/secondary-education-finance/elsec22.xlsx |
 | 2023 | https://www2.census.gov/programs-surveys/school-finances/tables/2023/secondary-education-finance/elsec23.xlsx |
 | 2024 | https://www2.census.gov/programs-surveys/school-finances/tables/2024/secondary-education-finance/elsec24.xlsx |
+
+The two were merged with years adjusted (URBAN started in fall CENSUS started in spring)
