@@ -6,7 +6,7 @@ this is used to clean census data to fill in the gaps that Urban could not (2020
 
 import pandas as pd
 
-path = "/home/jason/PycharmProjects/Canfield High-School Finances/excel Beuraeu Data RAW/elsec24.xlsx"   # change this to your file
+path = "/excel Beuraeu Data RAW/elsec24.xlsx"  # change this to your file
 
 df = pd.read_excel(path)
 canfield = df[df["NAME"].str.contains("CANFIELD", na=False)].iloc[0]
