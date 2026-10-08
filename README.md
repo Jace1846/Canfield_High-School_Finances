@@ -1,6 +1,6 @@
 # Canfield-High-school-Data-Analysis
 
-## This essentially charts out the financial data of canfield high school and projections over the next few years. 
+## This essentially charts out the financial data of canfield high school and projections over the next few years. (scroll to bottom for sources)
 
 ## Summarys
 ### Income v.s. Expenditures
