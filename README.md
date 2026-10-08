@@ -3,7 +3,7 @@
 ## This essentially charts out the financial data of canfield high school and projections over the next few years. (scroll to bottom for sources)
 
 ## Summarys
-### Income v.s. Expenditures
+### Total Income v.s. Expenditures
 <img width="1400" height="600" alt="canfield_income_vs_expenditures" src="https://github.com/user-attachments/assets/03ca86c4-8f3b-410e-b25f-2f5c0b77c6a8" />
 
 Income grew from $13.3M to $35.0M, and expenditures grew from $13.0M to $33.8M. The district brought in more than it spent in 27 of the 30 years.
