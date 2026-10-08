@@ -30,7 +30,7 @@ Reserves are projected to fall from 223 days in FY2022 to 128 days in FY2026 and
 
 What it means: Reserves are projected to shrink in every reported year. They drop below the minimum by FY2028 and are close to zero or below by FY2029. Even the more optimistic spring update leaves only 4 days of reserves in FY2029.
 
-Note: only these years were reported. The line between points is connected for readability.
+Note: only these years were reported. The line between points is connected for readability. The 50 day minimum is set by the treasury department as the minimum days the school needs to operate under it's reserves.
 
 
 
