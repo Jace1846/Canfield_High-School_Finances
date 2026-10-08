@@ -14,3 +14,8 @@ As K-12 eduication continues to struggle post covid, my home-town of Canfield Oh
 | 2024 | https://www2.census.gov/programs-surveys/school-finances/tables/2024/secondary-education-finance/elsec24.xlsx |
 
 The two were merged with years adjusted into the final csv (URBAN started in fall CENSUS started in spring) and can be found in the cleaned data directory under: canfield_income_expenditures_FY1995-2024.csv
+
+## Vidnicator Sources for Projections as well as reserve Timeline (Scraped but checked for Hallucinations)
+- https://www.vindy.com/news/local-news/2026/02/canfield-schools-fall-into-distress-status/
+- https://www.vindy.com/news/local-news/2026/05/canfield-school-chief-offers-strategic-plan-for-schools/
+- https://www.vindy.com/news/local-news/2026/02/canfield-schools-fall-into-distress-status/
