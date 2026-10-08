@@ -1,7 +1,6 @@
 # Canfield-High-school-Data-Analysis
 
-## Description
-This essentially charts out the financial data of canfield high school. Please pass that damn levy.
+## This essentially charts out the financial data of canfield high school and projections over the next few years. Pass that damn levy School Broke as Hell
 
 ## Summarys
 ### Income v.s. Expenditures
