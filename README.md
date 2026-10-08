@@ -26,11 +26,11 @@ What it means: The deficit isn't a one-year problem. It gets bigger every year b
 ### Reserve Days Projections
 <img width="1000" height="600" alt="canfield_reserve_days" src="https://github.com/user-attachments/assets/818151f7-7e9e-454b-8175-ad1b9ea7a60d" />
 
-Reserves are projected to fall from 223 days in FY2022 to 128 days in FY2026 and 44 days in FY2028, which drops below the roughly 50-day minimum shown on the chart. The February 2026 forecast had reserves going negative (-16 days) in FY2029. The spring 2026 update revised FY2029 to 4 days.
+Reserve days show how long the district's savings alone could cover normal spending. The forecast still assumes normal income. The savings shrink because they're used to cover each year's deficit.
 
-What it means: Reserves are projected to shrink in every reported year. They drop below the minimum by FY2028 and are close to zero or below by FY2029. Even the more optimistic spring update leaves only 4 days of reserves in FY2029.
+Reserves are projected to fall from 223 days (FY2022) to 128 (FY2026) and 44 (FY2028), below the roughly 50-day minimum. In FY2029 they reach -16 days in the February forecast, revised to 4 days in the spring update.
 
-Note: only these years were reported. The line between points is connected for readability. The 50 day minimum is set by the treasury department as the minimum days the school needs to operate under it's reserves.
+What it means: The savings are running out, dropping below the minimum by FY2028 and reaching about zero by FY2029. The school is essentially broke as hell.
 
 
 
