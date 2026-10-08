@@ -10,7 +10,7 @@ Income grew from $13.3M to $35.0M, and expenditures grew from $13.0M to $33.8M. 
 
 The only deficits were in FY1999 (-$3.0M), FY2000 (-$7.3M) and FY2002 (-$0.6M). In FY2000, expenditures jumped to $27.1M before falling back to $20.3M the next year. From FY2003 to FY2024 the district ran a surplus every year, usually between $2M and $4M.
 
-What it means: The district has a long record of income covering its spending. In recent years, though, the gap between the two lines has narrowed. The surplus fell to $0.3M in FY2023, the smallest since FY2002, before rising to $1.2M in FY2024.
+***What it means***: The district has a long record of income covering its spending. In recent years, though, the gap between the two lines has narrowed. The surplus fell to $0.3M in FY2023, the smallest since FY2002, before rising to $1.2M in FY2024.
 
 ### Projected General Income v.s. Expenditures
 <img width="1000" height="600" alt="canfield_projected_income_vs_expenditures" src="https://github.com/user-attachments/assets/a7d42140-9976-4ec0-bf9f-32f621bcff39" />
@@ -19,7 +19,7 @@ General Income is projected to stay flat: $31.0M in FY2024, peaking at $32.0M in
 
 FY2024 is the last projected surplus (+$1.4M). After that, the deficit grows each year: -$0.7M, -$1.4M, -$1.9M, -$2.6M and -$4.6M by FY2029. Altogether, that's about $11.2M more spent than earned from FY2025 to FY2029.
 
-What it means: The deficit isn't a one-year problem. It gets bigger every year because spending keeps rising while income doesn't. By FY2029, the district is projected to spend about 15% more than it takes in.
+***What it means***: The deficit isn't a one-year problem. It gets bigger every year because spending keeps rising while income doesn't. By FY2029, the district is projected to spend about 15% more than it takes in.
 
 
 ### Reserve Days Projections
@@ -29,7 +29,7 @@ Reserve days show how long the district's savings alone could cover normal spend
 
 Reserves are projected to fall from 223 days (FY2022) to 128 (FY2026) and 44 (FY2028), below the roughly 50-day minimum. In FY2029 they reach -16 days in the February forecast, revised to 4 days in the spring update.
 
-What it means: The savings are running out, dropping below the minimum by FY2028 and reaching about zero by FY2029. The school essentially has no money by 2029 if they don't make extreme cuts.
+***What it means***: The savings are running out, dropping below the minimum by FY2028 and reaching about zero by FY2029. The school essentially has no money by 2029 if they don't make extreme cuts.
 
 
 
